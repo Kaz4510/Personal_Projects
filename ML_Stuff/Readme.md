@@ -1,1 +1,1 @@
-All of the ML projects I found interesting/
+All of the ML projects I found interesting.
